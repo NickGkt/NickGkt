@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NickGkt
+- 👀 I’m interested in artificial intelligence, robotics, and neuromorphic computing.
+- 🌱 I’m currently learning neural networks for deep learning and autonomous training in high detail, in the Max Planck Institute for Polymer Research in Mainz, Germany
+- 💞️ I’m looking to collaborate on research in autonomous systems that combine engineering and robotics for smarter and practical solutions.
+- 📫 You can reach me at 'nickgkoutzios@gmail.com' or at 'gkoutziosn@mpip-mainz.mpg.de'
